@@ -1,5 +1,6 @@
 <h1 align="center">HypeUp</h1>
-Programa feito para fazer backup dos servidores da HypeHost. **Não está mais em uso**
+
+Programa feito para fazer backup dos servidores da HypeHost. **Não está mais em uso.**
 
 # Configuração
 Para usar o HypeUp, você terá que fazer uma cópia do arquivo **.env.example** e renomeá-lo para **.env**,
