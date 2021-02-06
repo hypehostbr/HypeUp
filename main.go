@@ -83,7 +83,7 @@ func upload(serverPath string) {
 
 	session, err := session.NewSession(s3Config)
 	if err != nil {
-		PanicLogger.Println("Can't create a session with the APU. is credentials correct?", err)
+		PanicLogger.Println("Can't create a session with the API. is credentials correct?", err)
 		return
 	}
 
